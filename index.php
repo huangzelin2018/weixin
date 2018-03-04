@@ -1,3 +1,3 @@
 <?php
 
-die("hello world");
+die("hello world huangzelin 黄泽林");
